@@ -11,7 +11,10 @@
 				"ms-azuretools.vscode-docker",
 				"DotJoshJohnson.xml",
 				"yzhang.markdown-all-in-one",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"ms-python.vscode-pylance",
+				"deitry.colcon-helper",
+				"redhat.vscode-yaml"
 			]
 		}
 	}
